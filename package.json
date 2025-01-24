@@ -1,0 +1,23 @@
+{
+  "author": "",
+  "comments": {
+    "dependencies": {},
+    "devDependencies": {
+      "@tailwindcss/cli": "project",
+      "tailwindcss": "project"
+    }
+  },
+  "dependencies": {},
+  "description": "",
+  "devDependencies": {
+    "@tailwindcss/cli": "^4.0.0",
+    "tailwindcss": "^4.0.0"
+  },
+  "license": "ISC",
+  "main": "index.js",
+  "name": "testrepotailwindv4ashugomod",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.0"
+}
